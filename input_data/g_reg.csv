@@ -1,0 +1,4 @@
+rep,First,Terminal,Rreg_min,Rreg_max,Pout,fcon
+R_Humay,HumayI,HumayO,0.3,1,48,0.01
+R_Lurin,LurinI,LurinO,0.45,1,52,0.007
+R_Mix,Mix101,Mix101_O,0.52,1,105,0.007

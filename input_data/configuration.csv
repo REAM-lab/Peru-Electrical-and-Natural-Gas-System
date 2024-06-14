@@ -1,0 +1,15 @@
+Parameter,Value
+Name_case,Test 5 bus system
+Start_case_day,1/01/2016
+Final_of_case,1/02/2016
+Date_format,mm/dd/yyyy
+Resolution,60
+Price_P_shed (Dolar/Mwh),8000
+Price_Q_shed(Dolar/Mwh),8000
+CPLEX tolerance,1.00E-05
+CPLEX cores,20
+MVA base,1200
+Max_digits_CSVfiles,3
+Energy price shed,6000
+Gas price shed,15
+Core,8

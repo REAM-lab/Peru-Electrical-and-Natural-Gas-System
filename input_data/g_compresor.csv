@@ -1,0 +1,3 @@
+comp,First,Terminal,Rcomp_min,Rcomp_max,FC_max,fcon
+C_Kamani,KamaniI,KamaniO,1,3,100000,0.0501
+C_Chiquintirca,ChiquintircaI,ChiquintircaO,1,3,100000,0.0501
