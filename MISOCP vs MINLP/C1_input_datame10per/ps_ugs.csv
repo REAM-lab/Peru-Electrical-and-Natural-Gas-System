@@ -1,0 +1,4 @@
+Unit,Node,Pmax,Pmin,b,Co,cvnc,C_start,C_down,Ramp,Cond_I,Pot_Ini,EffiD,Gnode,TminO,TminF,T_ini_Op,T_ini_Fs,CCiclo
+G1,1,500,30,0,75,0,800,0,75,1,100,1,0,1,1,0,0,1
+G2,2,900,45,0,700,0,560,0,450,1,300,0.005,2,1,1,0,0,2
+G3,3,500,30,0,70,0,900,0,75,1,100,1,0,1,1,0,0,3
