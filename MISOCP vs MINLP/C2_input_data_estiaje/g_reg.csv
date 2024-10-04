@@ -1,0 +1,2 @@
+rep,First,Terminal,Pin_min,Pin_max,Pout,fcon
+Reg1,9,10,50,110,33,0.004

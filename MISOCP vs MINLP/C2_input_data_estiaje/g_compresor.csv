@@ -1,0 +1,3 @@
+comp,First,Terminal,Rcomp_min,Rcomp_max,FC_max,fcon
+Comp1,5,4,1,3,10,0.005
+Comp2,7,1,1,3,10,0.005
