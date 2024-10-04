@@ -1,0 +1,10 @@
+Parameter,Value
+Power shedding cost MM (USD),0.0
+Thermal variable cost MM (USD),1.08
+Start-up and-Shut down MM (USD),0.002
+Gas shedding cost MM (USD),0.0
+Well Production MM (USD),4.329
+Hidraulic Production MM (USD),0.076
+Total cost MM (USD),5.486999999999999
+Time seg,14.507015
+% viol conx gas flow max,7.42451064536918
