@@ -6,4 +6,4 @@ Please, if you use any material or information from this repository for your res
 
 Salas Cardenas, Pablo; Serna-Torre, Paul; Hidalgo-Gonzalez, Patricia, "The Importance of an Optimal Integrated Operation of Electrical and Natural Gas Systems during Gas Rationing", IEEE Intercom 2024, Lima, Peru (Accepted).
 
-For questions and implementation, do not hesitate to contact: Pablo Salas Cardenas (psalascardenas@gmail.com, pablo.salas.c@uni.pe). In addition, you can also contact: Paul Serna-Torre (psernatorre@ucsd.edu) or Patricia Hidalgo-Gonzalez (phidalgogonzalez@ucsd.edu)
+For questions and implementation, do not hesitate to contact: Pablo Salas Cardenas (psalascardenas[at]gmail.com, pablo.salas.c[at]uni.pe). In addition, you can also contact: Paul Serna-Torre (psernatorre[at]ucsd.edu) or Patricia Hidalgo-Gonzalez (phidalgogonzalez[at]ucsd.edu).
